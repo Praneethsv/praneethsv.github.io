@@ -1,3 +1,9 @@
+---
+layout: default
+title: VENKATA PRANEETH
+---
+# VENKATA PRANEETH #
+<img src="img/aibrain.jpg" alt="Photo" class="leftside_image">
 ### Hi I am Venkata Praneeth, Welcome to My Website!!!
 
 I am a Master's student in [University of British Columbia](https://www.ubc.ca/). 
