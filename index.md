@@ -1,5 +1,3 @@
-## Welcome to GitHub Pages
-
 ### Hi I am Venkata Praneeth, Welcome to My Website!!!
 
 I am a Master's student in [University of British Columbia](https://www.ubc.ca/). 
